@@ -1,5 +1,7 @@
 ### Hi there 👋 welcome to my Code Garden
 
+[![Annie Chakraborty](https://img.shields.io/badge/ANNIE-CHAKRABORTY-<COLOR>.svg)](https://shields.io/) ![Profile Views](https://komarev.com/ghpvc/?username=anniechakraborty&color=blue) ![Followers](https://img.shields.io/github/followers/anniechakraborty) ![Stars](https://img.shields.io/github/stars/anniechakraborty?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) 
+
 Hi, I am Annie Chakraborty. I work as a Software Engineer in [Spring and River](https://springandriver.com/). 
 
 - 🔭 I’m currently working on Angular, React, Flask, and Tailwind
@@ -21,16 +23,17 @@ Hi, I am Annie Chakraborty. I work as a Software Engineer in [Spring and River](
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,py,flask,tailwind,react)](https://skillicons.dev)
 
 <!--
+## Stats
+
+![](https://github-readme-stats.vercel.app/api?username=anniechakraborty&hide_border=false&include_all_commits=true&count_private=true&theme=dracula&show_icons=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=anniechakraborty&theme=light&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=anniechakraborty&&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+-->
+## 📫 Connect with me
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/annie-chakraborty/) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/tinybookishreviews/)  
+<!--
 **anniechakraborty/anniechakraborty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
