@@ -14,9 +14,10 @@ Hi, I am Annie Chakraborty. I work as a Software Engineer in [Spring and River](
 ## My Projects
 - [TextUtils](https://github.com/anniechakraborty/textutils) bulit using ReactJS. It is a utility web app which allows you to modify your text whichever way you please 
 - [Expense Tracker](https://github.com/anniechakraborty/expense-tracker) built using ReactJS and Context API. Concept gained - global state management using Context API
-- [Manage Landing Page](https://github.com/anniechakraborty/manage-landing-page) built using Tailwind CSS
-- Ask Hermione is my pet project which is under development. It is a collection of my favourite utilities with a custom chat component. Tech stacks used here are Angular, Flask, Mongo and OpenAI api.
-- [To Do list](https://github.com/anniechakraborty/angularcrash_todolist) build using Angular and JSON Live Server for database functions.
+- [Manage Landing Page](https://github.com/anniechakraborty/manage-landing-page) built using Tailwind CSS. This was part of a challenge issued by [Frontend Mentor](https://www.frontendmentor.io/home)
+- [](https://github.com/anniechakraborty/social-links-profile-main) built using HTML5 and CSS3 as part of a basic [Frontend Mentor](https://www.frontendmentor.io/home) challenge which I personalized further
+- Ask Hermione is my pet project which is under development. It is a collection of my favourite utilities with a custom chat component. Tech stacks used here are Angular, Flask, Mongo and OpenAI API
+- [To Do list](https://github.com/anniechakraborty/angularcrash_todolist) build using Angular and JSON Live Server for database functions
 
 ## My Skills
 
