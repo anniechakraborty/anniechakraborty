@@ -2,9 +2,9 @@
 
 [![Annie Chakraborty](https://img.shields.io/badge/ANNIE-CHAKRABORTY-<COLOR>.svg)](https://shields.io/) ![Profile Views](https://komarev.com/ghpvc/?username=anniechakraborty&color=blue) ![Followers](https://img.shields.io/github/followers/anniechakraborty) ![Stars](https://img.shields.io/github/stars/anniechakraborty?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) 
 
-Hi, I am Annie Chakraborty. I work as a Software Engineer in [Spring and River](https://springandriver.com/). 
+Hi, I am Annie Chakraborty. I am currently pursuing my masters in Computer Science from the [University of Stuttgart](https://www.uni-stuttgart.de/en/). Previously, I have worked as a Software Engineer in [Spring and River](https://springandriver.com/) and as a Technology Consultant in [PwC India](https://www.pwc.in/). Here to learn and showcase my projects <3
 
-- 🔭 I’m currently working on Angular, React, Flask, and Tailwind
+- 🔭 I’m currently working on Angular, ReactJS, React Native, Flask, and Tailwind
 - 🌱 I’m currently learning frontend tech stacks
 - 👯 I’m looking to collaborate on web dev projects
 - 📫 How to reach me: chakrabortyannie20@gmail.com
