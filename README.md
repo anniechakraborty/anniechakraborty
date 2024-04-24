@@ -18,6 +18,7 @@ Hi, I am Annie Chakraborty. I am currently pursuing my masters in Computer Scien
 - [Social Links Profile](https://github.com/anniechakraborty/social-links-profile-main) built using HTML5 and CSS3 as part of a basic [Frontend Mentor](https://www.frontendmentor.io/home) challenge which I personalized further
 - Ask Hermione is my pet project which is under development. It is a collection of my favourite utilities with a custom chat component. Tech stacks used here are Angular, Flask, Mongo and OpenAI API
 - [To Do list](https://github.com/anniechakraborty/angularcrash_todolist) build using Angular and JSON Live Server for database functions
+- [Frontend Quiz](https://github.com/anniechakraborty/frontend-quiz-app) is the project I am currently working on. It is a basic quiz application built using Angular as the frontend and JSON web server as the backend
 
 ## My Skills
 
