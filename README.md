@@ -16,7 +16,7 @@ Visit my website [AnnieChakraborty](https://anniechakraborty.netlify.app/) for a
 
 ## My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,py,flask,tailwind,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,js,angular,py,flask,react,mongodb,mysql,git)](https://skillicons.dev)
 
 <!--
 ## Stats
